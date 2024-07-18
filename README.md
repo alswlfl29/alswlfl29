@@ -1,10 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D6EFD8&height=150&section=header&text=Hello!%20I'm%20Minji&fontSize=36" />
-<div align=center>
-  
-![alswlfl29's GitHub stats](https://github-readme-stats.vercel.app/api?username=alswlfl29&show_icons=true&theme=merko)
 
+<div align='center'>
+  
 ### Tech Stacks
-<div align=center>
+
   
   ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
   ![ts](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -18,5 +17,4 @@
 
 </div>
 
-</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D6EFD8&height=150&section=footer&text=&fontSize=20" />
